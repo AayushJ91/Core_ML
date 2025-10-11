@@ -1,4 +1,4 @@
-# 📂 CORE_ML Projects
+# 📂 CORE_ML
 
 This repository contains my learning journey in **Machine Learning (ML)**, with projects and implementations organized into two categories: **Monthly** and **Weekly**.
 

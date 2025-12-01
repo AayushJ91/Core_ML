@@ -8,10 +8,10 @@
 #### Sensitivity:-
 * True Positives / (True Positives + False Negatives)
 * It gives us a number which shows us out of actual true results how many are predicted true
-#### Specificity**:-
+#### Specificity :-
 * True Negatives / (True Negatives + False Positives)
 * It tells us how much out of actual negative result how many our model predicted as negative
-#### Accuracy**:-
+#### Accuracy:-
 correct predictions / total predictions
 #### Precision**:-
 True positive / total positive predictions = TP / (TP + FP)

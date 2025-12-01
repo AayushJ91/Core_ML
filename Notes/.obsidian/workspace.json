@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scalers.md",
+                "file": "Naive Bayes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scalers"
-            }
-          },
-          {
-            "id": "165d755a43d87084",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Normalization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Normalization"
+              "title": "Naive Bayes"
             }
           },
           {
@@ -55,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gradient Boosting.md",
+                "file": "TFI-DF Vectorizer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gradient Boosting"
+              "title": "TFI-DF Vectorizer"
+            }
+          },
+          {
+            "id": "a44e58dae3efc323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Variance and Bias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variance and Bias"
             }
           },
           {
@@ -77,8 +77,7 @@
               "title": "ROC Graph"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gradient Boosting.md",
+                "file": "Naive Bayes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gradient Boosting"
+              "title": "Backlinks for Naive Bayes"
             }
           },
           {
@@ -217,39 +216,39 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false
     }
   },
-  "active": "b0db0b2f07c2e4ef",
+  "active": "954ee1241623d9d1",
   "lastOpenFiles": [
+    "Confusion Matrix and basic Terminologies.md",
+    "Mertrics.md",
+    "Tree Based Models.md",
+    "Gradient Boosting.md",
     "Ensemble Learning.md",
+    "Scalers.md",
+    "Regularization.md",
+    "Normalization.md",
+    "ROC Graph.md",
+    "Variance and Bias.md",
+    "TFI-DF Vectorizer.md",
     "SVM.md",
     "Text based Model.md",
     "Linear Models.md",
     "Logistic Regression.md",
     "Decision Tree.md",
-    "Confusion Matrix and basic Terminologies.md",
     "Cross Validation.md",
     "Naive Bayes.md",
     "Neural Networks.md",
-    "Gradient Boosting.md",
-    "Regularization.md",
-    "Normalization.md",
-    "Scalers.md",
     "Classification Models.md",
     "Random Forest.md",
-    "ROC Graph.md",
-    "Tree Based Models.md",
-    "Mertrics.md",
     "notes.md",
-    "TFI-DF Vectorizer.md",
     "Vectorizer.md",
-    "Variance and Bias.md",
     "Welcome.md",
     "KNN.md"
   ]
